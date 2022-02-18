@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Recep Regaip Bek</h1>
+<h1 align="center"> Hi 👋, I'm Recep Regaip Bek</h1>
 <h3 align="center">I am a junior front-end developer candidate who is still in the learning and decision making phase.</h3>
 
 
